@@ -1,4 +1,4 @@
-Atom Issue #621
+Atom find-and-replace [Issue #621](https://github.com/atom/find-and-replace/issues/621)
 
 This problem seems to occur when there are  ignored directories which are not at the root E.g. a node_modules directory in a subdirectory.
 
